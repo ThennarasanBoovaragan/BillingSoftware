@@ -1,0 +1,16 @@
+#hiderow,
+header, footer, aside, nav, form, iframe, .menu, .hero, .adslot {
+  display: none;
+}
+* {
+  background-image: none !important;
+}
+
+img, svg {
+  display: none !important;
+}
+
+img.print, svg.print {
+  display: block;
+  max-width: 100%;
+}
