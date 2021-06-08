@@ -1,0 +1,10 @@
+[
+    {
+        "user_firstname": "Thennarasan",
+        "user_lastname": "Boovaragan",
+        "user_phone": "9842287036",
+        "email": "test@gmail.com",
+        "password": "Test@123",
+        "confirmpassword": "Test@123"
+    }
+]
